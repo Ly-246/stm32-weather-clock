@@ -1,0 +1,32 @@
+# Keil MDK 构建产物
+mdk/Objects/
+mdk/Listings/
+mdk/*.uvguix.*
+mdk/*.bak
+mdk/*.tmp
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.htm
+*.lst
+*.dep
+*.lnp
+*.iex
+*.scvd
+*.dbgconf
+*.sct
+*.scvd
+
+# IDE / 编辑器
+.idea/
+*.uvproj.bak
+*.user
+*.bak
+
+# 系统文件
+Thumbs.db
+.DS_Store
